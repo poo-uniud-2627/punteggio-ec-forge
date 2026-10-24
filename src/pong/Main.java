@@ -1,7 +1,6 @@
 // Pong — Programmazione Orientata agli Oggetti e Laboratori, Udine, a.a. 2026-27
 package pong;
 
-import giocatori.GiocatoreAutomatico;
 import java.awt.event.KeyEvent;
 
 /** L'avvio: sceglie i giocatori e apre la finestra. In VS Code: «Run» sopra main. */
